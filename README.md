@@ -1,0 +1,1 @@
+﻿Console application destinado a criação de arquivos de tamanho definido pelo usuário.
